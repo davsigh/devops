@@ -3,8 +3,7 @@ public static void main(String[] args) {
         // Prints "Hello, World" to the terminal window.
         System.out.println("Hello, World");
         System.out.println("Hello-fixed, commit2");
-        System.out.println("Hello-fixed3, commit3");
-        System.out.println("Hello-fixed3, commit4");
+        System.out.println("Hello-fixed3, commit5, Branch name-dev-branch");
     }
 }
 
